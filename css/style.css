@@ -1,0 +1,41 @@
+#id-container {
+padding: 2px;
+margin: 4px;
+}
+
+header, footer {
+  background-color: #008080;
+}
+/* Header, footer */
+
+nav {
+  background-color: #8FBC8F;
+}
+
+/* Navbar */
+
+.navbar-brand {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.nav-link, .dropdown-item {
+  font-size: 15px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+nav li {
+  padding: 0 18px;
+}
+
+nav li.active, nav li.active:before {
+  background-color: rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+}
+body{
+    background:#008080
+
+}
+}
+.custom-4 {font-family: 'Krona One', sans-serif;
